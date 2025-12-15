@@ -4,7 +4,7 @@
 with open('input_day2.txt', 'r') as file:
     input_str = file.read().strip()
 
-print(f'Input Text: {type(input_str), input_str}')                     # note: input_list contains values > 99; cyclic adaption necessary!
+print(f'Input Text: {type(input_str), input_str}')
 
 # extract current range
 list_ranges = input_str.split(sep=',')
