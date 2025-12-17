@@ -1,4 +1,4 @@
-# Advent of Code - Puzzle Day 1
+# Advent of Code 2025 - Puzzle Day 1
 
 ## read input file into list
 with open('input_day1.txt', 'r') as file:
