@@ -1,4 +1,4 @@
-# Advent of Code - Puzzle Day 3
+# Advent of Code 2025 - Puzzle Day 3
 
 with open('input_day3.txt', 'r') as file:
     input_list = file.read().splitlines()
